@@ -10,6 +10,3 @@
 [submodule "cookbooks/php"]
 	path = cookbooks/php
 	url = https://github.com/opscode-cookbooks/php.git
-[submodule "site-cookbooks/chef-client"]
-	path = site-cookbooks/chef-client
-	url = https://github.com/opscode-cookbooks/chef-client
