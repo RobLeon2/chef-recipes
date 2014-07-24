@@ -25,3 +25,6 @@
 [submodule "cookbooks/yum-mysql-community"]
 	path = cookbooks/yum-mysql-community
 	url = https://github.com/opscode-cookbooks/yum-mysql-community.git
+[submodule "cookbooks/yum"]
+	path = cookbooks/yum
+	url = https://github.com/opscode-cookbooks/yum.git
