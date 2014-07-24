@@ -22,3 +22,6 @@
 [submodule "cookbooks/pacman"]
 	path = cookbooks/pacman
 	url = https://github.com/opscode-cookbooks/pacman
+[submodule "cookbooks/yum-mysql-community"]
+	path = cookbooks/yum-mysql-community
+	url = https://github.com/opscode-cookbooks/yum-mysql-community.git
