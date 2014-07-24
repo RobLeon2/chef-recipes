@@ -13,3 +13,6 @@
 [submodule "cookbooks/freebsd"]
 	path = cookbooks/freebsd
 	url = https://github.com/opscode-cookbooks/freebsd.git
+[submodule "cookbooks/iptables"]
+	path = cookbooks/iptables
+	url = https://github.com/opscode-cookbooks/iptables.git
