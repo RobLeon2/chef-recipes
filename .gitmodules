@@ -10,3 +10,6 @@
 [submodule "cookbooks/php"]
 	path = cookbooks/php
 	url = https://github.com/opscode-cookbooks/php.git
+[submodule "cookbooks/freebsd"]
+	path = cookbooks/freebsd
+	url = https://github.com/opscode-cookbooks/freebsd.git
