@@ -34,3 +34,6 @@
 [submodule "cookbooks/iis"]
 	path = cookbooks/iis
 	url = https://github.com/opscode-cookbooks/iis
+[submodule "cookbooks/windows"]
+	path = cookbooks/windows
+	url = https://github.com/opscode-cookbooks/windows.git
